@@ -8,17 +8,17 @@ ________________________________________
 ## Project Objectives
 
 1.	**Sales Performance Analysis:**
-o	Track total sales over time and identify patterns, seasonality, or trends.
-o	Compare sales performance across product categories, regions, and customer segments.
-o	Highlight top-performing products and underperforming areas to uncover growth opportunities.
+Track total sales over time and identify patterns, seasonality, or trends.
+Compare sales performance across product categories, regions, and customer segments.
+Highlight top-performing products and underperforming areas to uncover growth opportunities.
 2.	**Net Profit Analysis:**
-o	Measure net profit trends to evaluate overall business profitability.
-o	Identify key drivers impacting profit margins, such as product costs.
-o	Visualize profit contribution by product, region, and sales channel.
+Measure net profit trends to evaluate overall business profitability.
+Identify key drivers impacting profit margins, such as product costs.
+Visualize profit contribution by product, region, and sales channel.
 3.	**Geographical Analysis:**
-o	Map sales and profit performance across different countries.
-o	Pinpoint regions with high revenue and profit potential.
-o	Use interactive visualizations to drill down into country-specific insights.
+Map sales and profit performance across different countries.
+Pinpoint regions with high revenue and profit potential.
+Use interactive visualizations to drill down into country-specific insights.
 ________________________________________
 
 ## Conclusion
